@@ -149,7 +149,7 @@ export default function TaskForm({
                 })
               }
             >
-              <option value="Open">To do</option>
+              <option value="Open">Open</option>
 
               <option value="WorkingInProgress">Working In Progress</option>
 
